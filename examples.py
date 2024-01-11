@@ -14,12 +14,12 @@ debug('is this a student', is_student)
 sum = x+y
 dif = x-y
 product = x*y
-qoutient = x/y
+quotient = x/y
 debug('sum', sum)
 debug('dif', dif)
 debug('product', product)
 # to prevent from floating type casting a floating point number decimal to int 
-debug('qou',int(qoutient))
+debug('qou',int(quotient))
 
 # modulo 
 remainder = 13%5
