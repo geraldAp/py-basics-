@@ -4,6 +4,7 @@
         "dropna",
         "dtypes",
         "iloc",
+        "randn",
         "tempdict"
     ]
 }
